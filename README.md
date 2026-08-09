@@ -38,3 +38,9 @@ Use the left and right arrow keys, Page Up and Page Down, or the on-screen contr
 The current build script reads the coursedeck template from a local Claude Code skill path. The generated HTML works independently, but regenerating it requires that local template to be available at the path declared in build.py.
 
 Screenshot regeneration additionally requires Playwright, Pillow, and a Playwright Chromium installation.
+
+## License
+
+The course materials are licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](LICENSE). Sharing and adaptation with attribution are permitted for noncommercial purposes; commercial use is not permitted.
+
+© 2026 realruian.

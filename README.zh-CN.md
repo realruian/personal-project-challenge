@@ -38,3 +38,9 @@
 当前 build.py 会从本机 Claude Code Skill 路径读取 coursedeck 模板。已生成的 HTML 可以独立使用，但如需重新生成，必须保证 build.py 中声明的本地模板路径可用。
 
 重新生成截图还需要 Playwright、Pillow，以及 Playwright 的 Chromium 浏览器。
+
+## 许可证
+
+本课程材料采用[知识共享署名—非商业性使用 4.0 国际许可协议](LICENSE)。允许在署名的前提下为非商业目的分享和改编；不允许商业使用。
+
+© 2026 realruian。
